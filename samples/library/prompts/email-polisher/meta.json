@@ -1,0 +1,15 @@
+{
+  "name": "email-polisher",
+  "description": "Turn rough notes into a friendly, professional email.",
+  "notes": "Handy for small-business and author work: replying to readers, editors, or customers without staring at a blank page.",
+  "tags": ["writing", "small-business", "email"],
+  "created": "2026-10-01T12:00:00+00:00",
+  "updated": "2026-10-01T12:00:00+00:00",
+  "versions": [
+    {
+      "id": 1,
+      "created": "2026-10-01T12:00:00+00:00",
+      "notes": "First version."
+    }
+  ]
+}

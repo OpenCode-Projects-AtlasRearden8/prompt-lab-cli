@@ -1,0 +1,20 @@
+{
+  "name": "summarize-notes",
+  "description": "Turn messy notes into a tidy summary with action items.",
+  "notes": "Good for class notes, meeting notes, or scribbled research. Version 2 asks for a priority list, which works better with small local models.",
+  "tags": ["productivity", "writing"],
+  "created": "2026-10-01T12:00:00+00:00",
+  "updated": "2026-10-01T12:00:00+00:00",
+  "versions": [
+    {
+      "id": 1,
+      "created": "2026-10-01T12:00:00+00:00",
+      "notes": "Simple summary request."
+    },
+    {
+      "id": 2,
+      "created": "2026-10-01T13:00:00+00:00",
+      "notes": "Added action items by priority and a missing-info check."
+    }
+  ]
+}

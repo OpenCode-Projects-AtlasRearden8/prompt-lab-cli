@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "reader-reply",
+      "input": "reply to reader who asked if book will be on kindle - yes next month, apologize for delay, offer free sample chapter link"
+    },
+    {
+      "name": "supplier-follow-up",
+      "input": "following up with packaging supplier about boxes quote from last week, need pricing by friday, 200 boxes, mention we might increase to 500 next quarter"
+    }
+  ]
+}

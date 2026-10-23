@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "what-is-a-token",
+      "input": "what an AI token is"
+    },
+    {
+      "name": "local-ai",
+      "input": "why someone would run an AI model on their own computer"
+    }
+  ]
+}

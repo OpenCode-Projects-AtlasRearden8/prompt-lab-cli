@@ -1,0 +1,20 @@
+{
+  "name": "everyday-explainer",
+  "description": "Explain any topic in plain, friendly English — the Asdale Dynamics house style.",
+  "notes": "The workhorse prompt of the sample library. Version 2 made the tone warmer and added the 'why should I care?' ending.",
+  "tags": ["writing", "education", "beginner"],
+  "created": "2026-10-01T12:00:00+00:00",
+  "updated": "2026-10-01T12:00:00+00:00",
+  "versions": [
+    {
+      "id": 1,
+      "created": "2026-10-01T12:00:00+00:00",
+      "notes": "Initial draft: plain explanation with an example."
+    },
+    {
+      "id": 2,
+      "created": "2026-10-01T13:00:00+00:00",
+      "notes": "Warmer tone, no talking down, ends with 'why should I care?'"
+    }
+  ]
+}

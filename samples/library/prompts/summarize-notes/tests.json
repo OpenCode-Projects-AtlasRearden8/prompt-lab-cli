@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "club-meeting",
+      "input": "chess club, tuesday: new clock arrived, ravi forgot the score sheets again, someone suggested a beginners ladder, next meeting moved to thursday because of the book fair"
+    },
+    {
+      "name": "study-session",
+      "input": "ai study group: watched intro to embeddings video, good questions about chunking documents, maria will share dataset links, confused about vector databases, Homework: read chapter 4 before next week"
+    }
+  ]
+}
